@@ -1,2 +1,1 @@
-Principal
-=========
+para aprobar código.
