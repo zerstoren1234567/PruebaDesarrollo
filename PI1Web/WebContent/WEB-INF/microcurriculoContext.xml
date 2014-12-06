@@ -9,7 +9,7 @@
 	xmlns:context="http://www.springframework.org/schema/context">
 
 <!-- BEANS DE ACCESO A DATOS, DAO -->
-
+dsfgdsfgdsfg
 <!--     <bean id="" class=""> -->
 <!-- 		<property name="sessionFactory"> -->
 <!-- 			<ref bean="factory"  /> -->
